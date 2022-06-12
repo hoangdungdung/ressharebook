@@ -32,6 +32,7 @@ public class ResshareBookApp {
 	// "http://localhost:8086/api";
 	public static String APPLICATION_NAME;
 	public static String KEY;
+	public static String KEY1;
 
 	// private static void postOutput(Output output) {
 	// System.out.println("Testing postOutput Output API----------");
