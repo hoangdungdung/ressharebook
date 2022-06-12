@@ -737,7 +737,16 @@
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
-        </configuration>
+         
+        <archive>
+          <manifest>
+            <addClasspath>true</addClasspath>
+            <classpathPrefix>lib/</classpathPrefix>
+            <mainClass>com.resshare.springboot.ResshareBookApp</mainClass>
+          </manifest>
+        </archive>
+      </configuration>
+      
       </plugin>
     </plugins>
   </build>
