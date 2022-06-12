@@ -21,7 +21,7 @@
 			<dependency>
 		<groupId>resshare.core</groupId>
 		<artifactId>resshare-core</artifactId>
-		<version>1.0</version>
+		<version>1.01</version>
 		<scope>system</scope>
 		<systemPath>${project.basedir}/libs/resshare-core.jar</systemPath>
 	</dependency>
